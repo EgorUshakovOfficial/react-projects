@@ -1,0 +1,14 @@
+body{
+	background-color: pink;
+	color: grey;
+}
+
+textarea{
+	min-height: 50vh
+}
+
+#root{
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+}

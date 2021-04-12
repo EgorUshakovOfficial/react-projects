@@ -1,0 +1,29 @@
+body{
+	background: pink;
+}
+
+.container{
+	display: flex;
+	height: 100vh;
+	align-items: center; 
+	justify-content: center;
+}
+
+#drum-machine{
+	height: 60%;
+	width: 60%;
+	display: grid; 
+	grid-template-rows: 33.3% 33.3% 33.3%;
+	grid-template-columns: 33.3% 33.3% 33.3%; 
+}
+
+button{
+	background-color: pink;
+	color: grey;
+	font-size: 1.5em;
+}
+
+#display{
+	font-size: 2em;
+	margin-top: 2vh;
+}

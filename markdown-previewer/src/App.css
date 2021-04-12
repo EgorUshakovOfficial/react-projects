@@ -1,0 +1,10 @@
+#container{
+	display: flex;
+	flex-direction: column;
+
+}
+
+label{
+	align-self: center;
+	font-size: 1.5em;
+}

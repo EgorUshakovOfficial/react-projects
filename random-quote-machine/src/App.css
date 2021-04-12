@@ -1,0 +1,24 @@
+#quote-box{
+	width: 50%;
+	max-height: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: pink; 
+	color: grey;
+}
+
+
+#text{
+	font-size: 1.5em; 
+	font-family: sans-serif;
+}
+
+#author{
+	align-self: flex-end;
+	margin-right: 5%;
+}
+
+#new-quote{
+	width: 50%;
+}
